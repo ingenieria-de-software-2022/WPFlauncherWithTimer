@@ -1,0 +1,17 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\bin\Debug\WPFlauncherWithTimer.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\bin\Debug\WPFlauncherWithTimer.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\bin\Debug\WPFlauncherWithTimer.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\MainWindow.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\App.g.cs
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer_MarkupCompile.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer_MarkupCompile.lref
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\MainWindow.baml
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.g.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WPFlauncherWithTimer\WPFlauncherWithTimer\obj\Debug\WPFlauncherWithTimer.Form1.resources
